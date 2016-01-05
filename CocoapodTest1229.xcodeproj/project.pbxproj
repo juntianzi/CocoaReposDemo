@@ -300,6 +300,7 @@
 				1661D1C01C3289D600A7041E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
